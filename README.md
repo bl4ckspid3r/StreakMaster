@@ -15,9 +15,9 @@ An Android streak tracking app built with Jetpack Compose. Track your habits, vi
 |--------------------------------|-------------------------------|
 | ![Create Streak](screenshots/create.png) | ![Streak Lists](screenshots/streaklist.png) |
 
-![Streak Counter with Motivation](screenshots/sc1.png)
-![Statistic Card](screenshots/stats.png)
-
+| Streak Counter                 | Statistic Card                |
+|--------------------------------|-------------------------------|
+| ![Streak Counter](screenshots/sc1.png) | ![Statistic Card](screenshots/stats.png) |
 ## Customize
 1. Clone the repo and build from Android Studio:
    ```bash
